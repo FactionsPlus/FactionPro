@@ -1,0 +1,6 @@
+name:FactionPro
+description: FactionPro Plugin
+version: 0.1
+main: fa/main
+author: FactionPlus Team
+api: 1.12.0
